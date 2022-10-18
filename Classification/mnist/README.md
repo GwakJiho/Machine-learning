@@ -1,10 +1,6 @@
 ### [MNIST](https://github.com/markdown-it/markdown-it-container)
 
 
-![Alt text][id]
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
 ### Dataset
 MNIST dataset =>  [MNIST](https://github.com/zalandoresearch/fashion-mnist) 
 
