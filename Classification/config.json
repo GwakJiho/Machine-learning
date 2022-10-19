@@ -1,0 +1,8 @@
+{
+    "option"  :{
+        "epochs" : 30,
+        "batch_size" : [10,100,1000],
+        "overfitting" : ["None", "batchnormalization", "weigthdecay"],
+        "optimizers" : ["adam" , "sgd"] 
+       }
+}
