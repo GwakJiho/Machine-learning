@@ -1,11 +1,12 @@
 
 
 
-# Natural Language Processing(NLP)
+# NLP
 -----------
 1. word2vec
-2. Transformer Encoding
-3. Deberta Finetuning For Text Classification ( Data None )
+2. Classification Minit
+3. Transformer Encoding
+4. Deberta Finetuning For Text Classification ( Data None )
 -------------
 
 
